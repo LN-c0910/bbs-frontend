@@ -1,4 +1,4 @@
- <font color="#ff00ff">网上论坛课设前端</font>
+# 网上论坛课设前端
 # default
 
 ## Project setup
